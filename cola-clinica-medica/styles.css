@@ -1,0 +1,54 @@
+html,
+body {
+    width: 100%;
+    overflow-x: hidden;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #ECEFF1;
+}
+
+.colorLetra {
+    color: #455A64;
+}
+
+.fondo-color {
+    background-color: #455A64 !important;
+}
+
+.heightListaPacientes {
+    background-color: #FFFFFF;
+    border-radius: 8px;
+}
+
+.tamanioContenedor {
+    min-height: 150px !important;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    padding: 1rem;
+}
+
+.fondohead {
+    background-color: #b9c1ee !important;
+    color: #263238;
+}
+
+.botonAtender {
+    height: 4rem !important;
+    background-color: #455A64 !important;
+    border: none;
+}
+
+.botonAtender:hover {
+    background-color: #263238 !important;
+}
+
+.divTurnos {
+    height: 3.8rem !important;
+    border-radius: 7px;
+    border: 2px solid #7c869c;
+    background-color: #FFFDE7;
+}
+
+.btn-info {
+    background-color: #455A64;
+    border: none;
+}
